@@ -7,7 +7,8 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background: #efaaff;
+    /* background: #efaaff; */
+    background: lightskyblue;
 }
 
 h1 {
